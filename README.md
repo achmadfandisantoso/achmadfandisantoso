@@ -3,7 +3,7 @@
 # Halo semua! 
 Perkenalkan nama saya **Achmad Fandi Santoso**.\
 Saya seorang **Cloud Enginerr**
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin]([https://www.linkedin.com/in/gilang-adhan/](https://www.linkedin.com/in/achmadfandisantoso/))ku ya.
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/achmadfandisantoso/)ku ya.
  
 <p align="left">
 <a href="https://github.com/gilangadhan">
